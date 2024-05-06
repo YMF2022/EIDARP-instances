@@ -2,7 +2,7 @@
 ![badge1](https://img.shields.io/badge/language-julia-blue)
 
 ## Layout of transit network
-Each layout has its own foolder. There are two folders, which are [cross]("/cross")(two transit lines) and [corss-ring]("/cross-ring")(three transit lines) layouts of transit. Each folder has a 'layout-network.csv' file indicating transit station coordinates and their tranfer station(s). The two layouts are shown in the figures below. 
+A layout of a transit network has its own folder. There are two folders, which are [cross]("/cross")(two transit lines) and [corss-ring]("/cross-ring")(three transit lines) layouts of transit. Each folder has a 'layout-network.csv' file indicating transit station coordinates and their tranfer station(s). The two layouts are shown in the figures below. 
 
 Cross network:
 
